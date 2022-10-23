@@ -1,6 +1,6 @@
 # PARADOX - THE HER COLLECTION
 
-```txt
+```ansi
 ________/\________  /\_____  ________ ____
   \_____  \ \_____  \/  \___ \/    \   |   /
     /  ___/| \|  /  /  | \ |  \  |  \     /
@@ -13,7 +13,7 @@ Her-Collection -  Music Pack   - [PC/DirectX]
 > [musicdisk](pdx-herc.zip) (`win32`)\
 > [tunes](pdx-herc-tunes.zip) (`mod`)
 
-```txt
+```ansi
                      _ _ ____    _  _ ___          _ ___  /  _
    _ __ ___________ ________ \  ________ \  ____._______\/  _/ _________ __ _
                   __\ _   / _ \_\ _   / _ \_\   |  _   /    \_
